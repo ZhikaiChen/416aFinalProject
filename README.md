@@ -1,1 +1,2 @@
-# 416aFinalProject
+# 416a Final Project
+##Wikipedia Philosophy Network
